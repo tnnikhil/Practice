@@ -1,2 +1,4 @@
 This is the second lesson for Git
-Title:Overview & Features of Git
+Title:Features of Git
+============================
+Feature1 added
